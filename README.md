@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Walisson! Nice to meet you. 👋🏻  :D
+# I'm Walisson! Nice to meet you. :D
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walissonfarias" alt="DanielSilvado" /> </p>
 
