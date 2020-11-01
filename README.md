@@ -1,24 +1,12 @@
 ### Hi there 👋
 
-<!--
-**walissonfarias/walissonfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Walisson! Nice to meet you. 👋🏻  :D
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walissonfarias" alt="DanielSilvado" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi, I'm Walisson! Nice to meet you. 👋🏻  :D
-
-[![Github Badge](https://github.com/walissonfarias)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/walissonfarias)](https://github.com/walissonfarias)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/walissonfarias)](www.linkedin.com/in/walissonfarias)
+[![Medium Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/walissonfarias)](https://github.com/walissonfarias)
 
 ### About me
 I'm a {frontend or full stack} developer and product owner/scrum master at [@terralab](http://www2.decom.ufop.br/terralab/).
